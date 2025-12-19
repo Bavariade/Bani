@@ -1,4 +1,4 @@
-# Full Starter GitHub Repositoryy
+# Full Starter GitHub Repository
 
 ## README.md
 This repository is a complete starter project
