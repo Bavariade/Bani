@@ -1,6 +1,6 @@
 # Full Starter GitHub Repository
 
-## README.mdd
+## README.md
 This repository is a complete starter project
 It is designed to be clean simple and easy to extend
 You can use it as a base for learning testing or real projects
